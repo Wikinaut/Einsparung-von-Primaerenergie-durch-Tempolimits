@@ -8,13 +8,13 @@ Siehe  https://twitter.com/Wikinaut/status/1582676708011884544
 @Wikinaut 19.10.2022
 
 Einsparung fossiler Brennstoffe durch Tempolimits [1]   
-2,1..3,7*10^9 l Diesel bzw. Benzin (T100 bzw. T100/80/30)
+2,1..3,7*10^9 l/a Diesel bzw. Benzin (T100 bzw. T100/80/30)
 
 Die Rechnung beschränkt sich auf ~Diesel, um dessen Umwandlung in elektrische Energie in Dieselkraftwerken bzw. Gas(turbinen)-und-Dampfkraftwerken ins Verhältnis setzen zu können.
 
 10^4 Wh/l Diesel Energieäquivalent [2]
 
-=> 2,1..3,7*10^13 Wh = 21..37 TWh/a (ohne Crackingaufwand [2])
+=> 2,1..3,7*10^13 Wh/a = 21..37 TWh/a (ohne Crackingaufwand [2])
 
 Wirkungsgrad η = 50 % ( 0,5 ) [3]
 
@@ -42,10 +42,10 @@ https://de.m.wikipedia.org/wiki/Dieselkraftstoff (etwa 10 kWh/l)
 
 Zusätzlich erforderliche Energie Erdöl→Benzin/Diesel
 
-"In die Erzeugung eines Liter Benzin gehen ~7 kWh Energie u.a. aus Gas oder Strom. Das heißt so viel, dass ein e-Auto damit doppelt so weit fahren könnte wie ein Verbrenner mit dem Liter Sprit! #Tempo100auf der Autobahn spart 1 AKW!"
+"In die Erzeugung eines Liter Benzin gehen ~7 kWh/l Energie u.a. aus Gas oder Strom. Das heißt so viel, dass ein e-Auto damit doppelt so weit fahren könnte wie ein Verbrenner mit dem Liter Sprit! #Tempo100auf der Autobahn spart 1 AKW!"
 
 https://twitter.com/FrankRauschenb3/status/1582028339875020800   
-D. h. 1 Liter Benzin(Diesel) = 1 Liter Erdöl (10 kWh, Brennwerte sind etwa identisch) plus 7 kWh Herstellungsenergie = 17 kWh
+D. h. 1 Liter Benzin(Diesel) = 1 Liter Erdöl (10 kWh/l, Brennwerte sind etwa identisch) plus 7 kWh/l Herstellungsenergie = 17 kWh/l
 
 Schätzung: 1 Liter Benzin(Diesel) => 10 … 17 kWh/l (Energieinhalt plus Crackingaufwand)
 
