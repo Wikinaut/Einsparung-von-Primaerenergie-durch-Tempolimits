@@ -2,7 +2,7 @@
 
 Siehe  https://twitter.com/Wikinaut/status/1582676708011884544
 
-* [Diese Seite als PDF](https://github.com/Wikinaut/Einsparung-von-Primaerenergie-durch-Tempolimits/blob/main/20221019%20Einsparung%20durch%20Tempolimits.pdf)
+* [Diese Seite als PDF](https://github.com/Wikinaut/Einsparung-von-Primaerenergie-durch-Tempolimits/raw/main/20221019%20Einsparung%20durch%20Tempolimits.pdf)
 * Anmerkungen bitte als [Issue](https://github.com/Wikinaut/Einsparung-von-Primaerenergie-durch-Tempolimits/issues) formulieren.
 
 @Wikinaut 19.10.2022
